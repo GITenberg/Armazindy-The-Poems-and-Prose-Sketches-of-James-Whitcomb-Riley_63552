@@ -1,0 +1,30 @@
+_repo: Armazindy-The-Poems-and-Prose-Sketches-of-James-Whitcomb-Riley_63552
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riley, James Whitcomb
+    aliases:
+    - Johnson, Benj. F. of Boone
+    - Johnson, B. F.
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '356'
+    url: http://www.gutenberg.org/2009/agents/356
+    wikipedia: https://en.wikipedia.org/wiki/James_Whitcomb_Riley
+description: ''
+gutenberg_issued: '2020-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 19th century'
+- GITenberg
+title: 'Armazindy
+
+  The Poems and Prose Sketches of James Whitcomb Riley'
+url: http://www.gutenberg.org/ebooks/63552
